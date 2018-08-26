@@ -1,6 +1,7 @@
 {
   "name": "stackline",
   "version": "0.1.0",
+  "homepage": "https://ishan-khaparde.github.io/stackline/",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.3",
